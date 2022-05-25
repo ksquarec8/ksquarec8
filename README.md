@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ksquarec8
-- 👀 I’m interested in Machine learning/Wireless communication.
+- 👀 I’m interested in Machine learning, Image Processing & Wireless communication.
 - 🌱 I’m currently learning python,MongoDB,NodeJs.
 
 <!---
